@@ -7,6 +7,8 @@ span,
   font-family: "Outfit", sans-serif;
 }
 
+/********** Cards **********/
+
 body {
   background-color: #f4d04e;
 }
@@ -62,6 +64,10 @@ body {
 .title {
   font-size: 24px;
   line-height: 150%;
+}
+
+.title:hover {
+  color: #f4d04e;
 }
 
 .text-desc {
